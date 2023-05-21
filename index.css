@@ -24,7 +24,7 @@ body{
 }
  
 #title, #restart{
-	min-width: 31.1rem;
+	min-width: 100%;
 	margin: auto;
 	height: 10%;
 	background:#ff4d6d;
@@ -113,7 +113,7 @@ border-radius: 0.8rem;
 	}
 	
 	#title, #restart {
-	min-width: 17.7rem;
+	/* min-width: 17.7rem; */
 	font-size: 1.4rem;
 	height: 11%;
 	border-radius: 2rem;
