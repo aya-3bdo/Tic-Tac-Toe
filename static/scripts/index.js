@@ -77,7 +77,7 @@ function draw() {
       sqr.classList.add("drawCase");
     });
     // change the title.
-    title.innerHTML = `no winners.`;
+    title.innerHTML = `Tie Case.`;
 
     // function of printibg points.
     let prin_point = setInterval(() => {
