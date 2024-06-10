@@ -1,4 +1,4 @@
-# Tic Tac Toe
+# Tic Tac Toe Game
 
 A simple Tic Tac Toe game built using JavaScript, HTML, and CSS with a wounderful animations and confetti effects that show in winning cases.
 
