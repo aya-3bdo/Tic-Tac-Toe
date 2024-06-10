@@ -19,10 +19,9 @@ You can play the game online by visiting [Netlify](). deployment.
 
 1. Clone the regular version: 
   - Write this command in your terminal:
-    - git clone https://github.com/aya-3bdo/Tic-Tac-Toe.git
+    - `git clone https://github.com/aya-3bdo/Tic-Tac-Toe.git`
 
 2. Clone the Minified version:
   - Write this command in your terminal:
-    - git clone --branch Tic-Tac-Toe-Minified-Version https://github.com/aya-3bdo/Tic-Tac-Toe.git
-    - After cloning this branch, make sure to run the command or the game will not work:
-      - npm i
+    - `git clone --branch Tic-Tac-Toe-Minified-Version https://github.com/aya-3bdo/Tic-Tac-Toe.git`
+    - After cloning this branch, make sure to run the command or the game will not work: `npm i`
