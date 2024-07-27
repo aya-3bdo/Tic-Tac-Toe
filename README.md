@@ -4,7 +4,7 @@ A simple Tic Tac Toe game built using JavaScript, HTML, and CSS with a wounderfu
 
 ## Demo
 
-You can play the game online by visiting [Netlify](). deployment.
+You can play the game online by visiting [Netlify](https://tic-x-toe.netlify.app). deployment.
 
 ## Features
 
